@@ -1,0 +1,13 @@
+C:\Users\Fusionstak\source\repos\Liskov\bin\Debug\netcoreapp3.1\Liskov.exe
+C:\Users\Fusionstak\source\repos\Liskov\bin\Debug\netcoreapp3.1\Liskov.deps.json
+C:\Users\Fusionstak\source\repos\Liskov\bin\Debug\netcoreapp3.1\Liskov.runtimeconfig.json
+C:\Users\Fusionstak\source\repos\Liskov\bin\Debug\netcoreapp3.1\Liskov.runtimeconfig.dev.json
+C:\Users\Fusionstak\source\repos\Liskov\bin\Debug\netcoreapp3.1\Liskov.dll
+C:\Users\Fusionstak\source\repos\Liskov\bin\Debug\netcoreapp3.1\Liskov.pdb
+C:\Users\Fusionstak\source\repos\Liskov\obj\Debug\netcoreapp3.1\Liskov.csprojAssemblyReference.cache
+C:\Users\Fusionstak\source\repos\Liskov\obj\Debug\netcoreapp3.1\Liskov.AssemblyInfoInputs.cache
+C:\Users\Fusionstak\source\repos\Liskov\obj\Debug\netcoreapp3.1\Liskov.AssemblyInfo.cs
+C:\Users\Fusionstak\source\repos\Liskov\obj\Debug\netcoreapp3.1\Liskov.csproj.CoreCompileInputs.cache
+C:\Users\Fusionstak\source\repos\Liskov\obj\Debug\netcoreapp3.1\Liskov.dll
+C:\Users\Fusionstak\source\repos\Liskov\obj\Debug\netcoreapp3.1\Liskov.pdb
+C:\Users\Fusionstak\source\repos\Liskov\obj\Debug\netcoreapp3.1\Liskov.genruntimeconfig.cache
